@@ -10,10 +10,10 @@ Frontend Developer | Tech Enthusiast <br>I love turning ideas into real-world we
 # 📊 GitHub Stats:
 <p align="left">
   <img src="https://github-readme-stats-one-eight.vercel.app/api?username=abhi12-34&show_icons=true&theme=dark" alt="GitHub Stats" height="150" />
-  <img src="https://github-stats-alpha.vercel.app/api?username=abhi12-34&show_icons=true&theme=dark" alt="GitHub Streak" height="150" />
+  <img src="https://github-stats-alpha.vercel.app/api?username=abhi12-34&show_icons=true&theme=dark" alt="" height="150" />
 </p>
 <p align="left">
-  <img src="https://github-readme-stats-one-eight.vercel.app/api/top-langs/?username=abhi12-34&layout=compact&theme=dark" alt="Top Langs" height="150" />
+  <img src="https://github-readme-stats-one-eight.vercel.app/api/top-langs/?username=abhi12-34&layout=compact&theme=dark" alt="" height="150" />
 </p>
 
 
