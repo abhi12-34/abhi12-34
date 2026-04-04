@@ -1,6 +1,43 @@
 # 💫 About Me:
 Frontend Developer | Tech Enthusiast <br>I love turning ideas into real-world web applications.<br>Currently exploring advanced frontend and 3D web technologies.
 
+# 👋 Hello, I'm Abhi!
+
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=B.Tech+CSE+Student;AI+%26+ML+Enthusiast;Full+Stack+Developer;Global+Tech+Explorer" alt="Typing SVG" />
+</p>
+
+---
+
+### 🚀 About Me
+A driven **B.Tech CSE student** with a deep passion for **AI**, **Software Development**, and **Global Tech Innovation**. I love turning complex problems into elegant, impactful solutions. Currently, I'm pushing the boundaries of web experiences by blending code with 3D animations.
+
+*   🌍 **Goal:** Building tech solutions that scale worldwide.
+*   ⚡ **Fun Fact:** Currently obsessed with making websites feel "alive" using **GSAP** and **Spline**.
+*   🔭 **Current Focus:** Sharpening problem-solving skills and exploring advanced AI integrations.
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,c,js,html,css,react,mysql,github,vscode" />
+  </a>
+</p>
+
+### 🎨 Creative Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=threejs,figma" /> <span><b> + GSAP & Spline </b></span>
+  </a>
+</p>
+
+---
+
+### 📈 My GitHub Stats
+
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-yadav-6a7bb7375) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhishek6386155651@gmail.com) 
