@@ -1,11 +1,10 @@
-# 💫 About Me:
-Frontend Developer | Tech Enthusiast <br>I love turning ideas into real-world web applications.<br>Currently exploring advanced frontend and 3D web technologies.
 
-# 👋 Hello, I'm Abhi!
+# 👋 Hello, I'm Abhishek!
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=B.Tech+CSE+Student;AI+%26+ML+Enthusiast;Full+Stack+Developer;Global+Tech+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=EAEAEA&center=false&vCenter=false&width=550&lines=B.Tech+CSE+Student;Front-end+Developer;Global+Tech+Explorer;3D+Web+Animator;Spline+%26+GSAP+Enthusiast" alt="Aesthetic Typing SVG" />
 </p>
+
 
 ---
 
