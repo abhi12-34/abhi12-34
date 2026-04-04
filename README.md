@@ -28,7 +28,7 @@ A driven **B.Tech CSE student** with a deep passion for **AI**, **Software Devel
 ### 🎨 Creative Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=threejs,Spline, GSAP" /> <span><b> + GSAP & Spline </b></span>
+    <img src="https://skillicons.dev/icons?i=threejs" /> <span><b> + GSAP & Spline </b></span>
   </a>
 </p>
 
