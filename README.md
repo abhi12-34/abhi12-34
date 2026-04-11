@@ -21,7 +21,7 @@ A driven **B.Tech CSE student** with a deep passion for **AI**, **Software Devel
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,js,html,css,react,mysql,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=python,c,java,js,html,css,react,mysql,github,vscode" />
   </a>
 </p>
 
