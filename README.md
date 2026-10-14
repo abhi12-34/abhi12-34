@@ -13,7 +13,7 @@ A driven **B.Tech CSE student** with a deep passion for **AI**, **Software Devel
 
 *   🌍 **Goal:** Building tech solutions that scale worldwide.
 *   ⚡ **Fun Fact:** Currently obsessed with making websites feel "alive" using **GSAP** and **Spline**.
-*   🔭 **Current Focus:** Sharpening problem-solving skills and exploring advanced AI integrations.
+*   🔭 **Current Focus:** Sharpening problem-solving skills , exploring advanced AI integration and Backend.
 
 ---
 
